@@ -1,0 +1,19 @@
+{
+    "rules": [
+      {
+        "id": 1,
+        "name": "rule_1",
+        "index": "123",
+        "time": "24h",
+        "mailers": ["mailid@gmail.com", "somemailid@gmail.com"]
+      },
+      {
+        "id": 2,
+        "name": "rule_2",
+        "index": "456",
+        "time": "7d",
+        "mailers": ["mailid@gmail.com"]
+      }
+    ]
+  }
+  
